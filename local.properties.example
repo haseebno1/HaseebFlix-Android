@@ -1,0 +1,3 @@
+# Copy to local.properties and fill in. Free "API Read Access Token": https://www.themoviedb.org/settings/api
+sdk.dir=/path/to/Android/sdk
+TMDB_READ_TOKEN=eyJhbGciOi...your_token_here
